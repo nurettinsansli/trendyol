@@ -1,6 +1,6 @@
 # Selenium Web Otomasyon Senaryosu
 +  www.trendyol.com sitesi açılır.
-+  ~~Ana sayfanın açıldığı kontrol edilir.~~
++  Ana sayfanın açıldığı kontrol edilir.
 +  Siteye login olunur.
 +  ~~Login işlemi kontrol edilir.~~
 + Arama kutucuğuna bilgisayar kelimesi girilir.
